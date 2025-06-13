@@ -1,0 +1,30 @@
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1733215607532/work
+certifi==2025.4.26
+cffi==1.17.1
+charset-normalizer==3.4.2
+cryptography==45.0.4
+defusedxml==0.7.1
+Django @ file:///home/conda/feedstock_root/build_artifacts/django_1749759981917/work
+django-cors-headers @ file:///home/conda/feedstock_root/build_artifacts/django-cors-headers_1683904088844/work
+django-filter @ file:///home/conda/feedstock_root/build_artifacts/django-filter_1682852969274/work
+django-templated-mail==1.1.1
+djangorestframework @ file:///home/conda/feedstock_root/build_artifacts/djangorestframework_1663854154474/work
+djangorestframework_simplejwt==5.5.0
+djoser==2.2.0
+idna==3.10
+oauthlib==3.2.2
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1684654118716/work
+psycopg2 @ file:///Users/runner/miniforge3/conda-bld/psycopg2-split_1688999146626/work
+psycopg2-binary @ file:///home/conda/feedstock_root/build_artifacts/psycopg2-split_1688999073688/work/psycopg2-binary
+pycparser==2.22
+PyJWT==2.9.0
+python-decouple @ file:///home/conda/feedstock_root/build_artifacts/python-decouple_1734972248338/work
+python3-openid==3.2.0
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1742920838005/work
+requests==2.32.4
+requests-oauthlib==2.0.0
+social-auth-app-django==5.4.3
+social-auth-core==4.6.1
+sqlparse @ file:///home/conda/feedstock_root/build_artifacts/sqlparse_1734007102193/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1748959427/work
+urllib3==2.4.0
