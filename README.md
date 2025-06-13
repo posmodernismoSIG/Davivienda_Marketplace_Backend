@@ -223,7 +223,7 @@ python create_test_data.py
 ### Usuarios de Prueba Creados:
 | Usuario | Password | Rol | Email |
 |---------|----------|-----|-------|
-| `admin` | `admin123` | Administrador | admin@davivienda.com |
+| `daviviendaAdmin` | `d4v1v13nd4` | Administrador | admin@davivienda.com |
 | `cliente1` | `cliente123` | Cliente | cliente1@example.com |
 | `cliente2` | `cliente123` | Cliente | cliente2@example.com |
 | `asesor_financiero` | `asesor123` | Staff | asesor@davivienda.com |
